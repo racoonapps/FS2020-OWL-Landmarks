@@ -13,32 +13,32 @@
     {
       "path": "manifest.json",
       "size": 296,
-      "date": 132431809214455769
+      "date": 132433534455113650
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 2965850,
-      "date": 132431761753162027
+      "size": 3091014,
+      "date": 132433534454653232
     },
     {
-      "path": "scenery/global/scenery/TEXTURE/BENTELERARENA.PNG.DDS",
+      "path": "scenery/global/scenery/TEXTURE/BENTELERARENATEXTURE.PNG.DDS",
       "size": 22369776,
-      "date": 132431761751880865
+      "date": 132433534453291997
     },
     {
-      "path": "scenery/global/scenery/TEXTURE/BENTELERARENA.PNG.DDS.json",
+      "path": "scenery/global/scenery/TEXTURE/BENTELERARENATEXTURE.PNG.DDS.json",
       "size": 119,
-      "date": 132431761751720717
+      "date": 132433534453151869
     },
     {
       "path": "scenery/world/scenery/BENTELERARENASHP.BGL",
       "size": 923,
-      "date": 132431816961289162
+      "date": 132433534454923482
     },
     {
       "path": "scenery/world/scenery/OWLLandmarks.bgl",
       "size": 156,
-      "date": 132431816961229111
+      "date": 132433542218739007
     }
   ]
 }
