@@ -13,42 +13,62 @@
     {
       "path": "manifest.json",
       "size": 296,
-      "date": 132433715167244155
+      "date": 132437003858443042
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 3075978,
-      "date": 132433710699261561
+      "size": 3898104,
+      "date": 132437003857853350
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BENTELERARENATEXTURE.PNG.DDS",
       "size": 22369776,
-      "date": 132433534453291997
+      "date": 132437003823945996
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BENTELERARENATEXTURE.PNG.DDS.json",
       "size": 119,
-      "date": 132433534453151869
+      "date": 132437003823785853
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BIELEFELDSCHUECOARENA.PNG.DDS",
       "size": 22369776,
-      "date": 132433710307838675
+      "date": 132437003857402940
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BIELEFELDSCHUECOARENA.PNG.DDS.json",
       "size": 119,
-      "date": 132433710307698549
+      "date": 132437003857252805
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/FERNSEHTURNTEX.PNG.DDS",
+      "size": 22369776,
+      "date": 132437003836447361
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/FERNSEHTURNTEX.PNG.DDS.json",
+      "size": 119,
+      "date": 132437003836297226
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/FERNSEHTURNTEXNML.PNG.DDS",
+      "size": 22369776,
+      "date": 132437003843568851
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/FERNSEHTURNTEXNML.PNG.DDS.json",
+      "size": 160,
+      "date": 132437003843418714
     },
     {
       "path": "scenery/world/scenery/BENTELERARENASHP.BGL",
-      "size": 2756,
-      "date": 132433716626144202
+      "size": 3048,
+      "date": 132437003858282955
     },
     {
       "path": "scenery/world/scenery/OWLLandmarks.bgl",
-      "size": 236,
-      "date": 132433716626064130
+      "size": 316,
+      "date": 132437006146817153
     }
   ]
 }
