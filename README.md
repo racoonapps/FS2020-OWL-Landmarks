@@ -3,11 +3,13 @@ OWL Landmark objects for MS FS 2020
 
 This is my addition to the new FS 2020. I will create several VFR landmarks for use in the simulator. I've started with Benteler Arena in Paderborn, home of SC Paderborn 07, a soccer club in the 2. Bundesliga.
 
-## TODO
+## Completed
+* Benteler Arena, Paderborn
 * Schüco Arena, Bielefeld
-* Wewelsburg
+* Fernmeldeturm, Bielefeld
+
+## TODO
 * Hermanns-Denkmal
-* etc.
 
 
 ## Installation
