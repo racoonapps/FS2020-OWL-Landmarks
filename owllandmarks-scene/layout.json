@@ -13,12 +13,32 @@
     {
       "path": "manifest.json",
       "size": 296,
-      "date": 132437003858443042
+      "date": 132442152470787557
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 3898104,
-      "date": 132437003857853350
+      "size": 4686986,
+      "date": 132442152470577363
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/BASETEXNML.PNG.DDS",
+      "size": 22369796,
+      "date": 132442051183319519
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/BASETEXNML.PNG.DDS.json",
+      "size": 191,
+      "date": 132442051183169385
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/BASTEX.PNG.DDS",
+      "size": 22369776,
+      "date": 132442051081824096
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/BASTEX.PNG.DDS.json",
+      "size": 119,
+      "date": 132442051081658679
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BENTELERARENATEXTURE.PNG.DDS",
@@ -61,14 +81,24 @@
       "date": 132437003843418714
     },
     {
+      "path": "scenery/global/scenery/TEXTURE/HERMANNDETMOLDTEXTURE.PNG.DDS",
+      "size": 22369776,
+      "date": 132442152469846704
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/HERMANNDETMOLDTEXTURE.PNG.DDS.json",
+      "size": 119,
+      "date": 132442152469686556
+    },
+    {
       "path": "scenery/world/scenery/BENTELERARENASHP.BGL",
-      "size": 3048,
-      "date": 132437003858282955
+      "size": 3887,
+      "date": 132442161091556727
     },
     {
       "path": "scenery/world/scenery/OWLLandmarks.bgl",
-      "size": 316,
-      "date": 132437006146817153
+      "size": 396,
+      "date": 132442161091476654
     }
   ]
 }
