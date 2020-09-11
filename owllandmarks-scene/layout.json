@@ -13,92 +13,82 @@
     {
       "path": "manifest.json",
       "size": 296,
-      "date": 132442152470787557
+      "date": 132443022765721298
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 4686986,
-      "date": 132442152470577363
+      "size": 4649330,
+      "date": 132443022765042510
     },
     {
-      "path": "scenery/global/scenery/TEXTURE/BASETEXNML.PNG.DDS",
-      "size": 22369796,
-      "date": 132442051183319519
-    },
-    {
-      "path": "scenery/global/scenery/TEXTURE/BASETEXNML.PNG.DDS.json",
-      "size": 191,
-      "date": 132442051183169385
-    },
-    {
-      "path": "scenery/global/scenery/TEXTURE/BASTEX.PNG.DDS",
+      "path": "scenery/global/scenery/TEXTURE/BASETEXTURE.PNG.DDS",
       "size": 22369776,
-      "date": 132442051081824096
+      "date": 132443022750909646
     },
     {
-      "path": "scenery/global/scenery/TEXTURE/BASTEX.PNG.DDS.json",
+      "path": "scenery/global/scenery/TEXTURE/BASETEXTURE.PNG.DDS.json",
       "size": 119,
-      "date": 132442051081658679
+      "date": 132443022750769523
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/BASETEXTUREROUGH.PNG.DDS",
+      "size": 22369796,
+      "date": 132443022735135300
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/BASETEXTUREROUGH.PNG.DDS.json",
+      "size": 191,
+      "date": 132443022734995172
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BENTELERARENATEXTURE.PNG.DDS",
       "size": 22369776,
-      "date": 132437003823945996
+      "date": 132443022612655310
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BENTELERARENATEXTURE.PNG.DDS.json",
       "size": 119,
-      "date": 132437003823785853
+      "date": 132443022612535210
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BIELEFELDSCHUECOARENA.PNG.DDS",
       "size": 22369776,
-      "date": 132437003857402940
+      "date": 132443022764532045
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BIELEFELDSCHUECOARENA.PNG.DDS.json",
       "size": 119,
-      "date": 132437003857252805
+      "date": 132443022764421946
     },
     {
       "path": "scenery/global/scenery/TEXTURE/FERNSEHTURNTEX.PNG.DDS",
       "size": 22369776,
-      "date": 132437003836447361
+      "date": 132443022625213783
     },
     {
       "path": "scenery/global/scenery/TEXTURE/FERNSEHTURNTEX.PNG.DDS.json",
       "size": 119,
-      "date": 132437003836297226
+      "date": 132443022625073656
     },
     {
       "path": "scenery/global/scenery/TEXTURE/FERNSEHTURNTEXNML.PNG.DDS",
       "size": 22369776,
-      "date": 132437003843568851
+      "date": 132443022632535819
     },
     {
       "path": "scenery/global/scenery/TEXTURE/FERNSEHTURNTEXNML.PNG.DDS.json",
       "size": 160,
-      "date": 132437003843418714
-    },
-    {
-      "path": "scenery/global/scenery/TEXTURE/HERMANNDETMOLDTEXTURE.PNG.DDS",
-      "size": 22369776,
-      "date": 132442152469846704
-    },
-    {
-      "path": "scenery/global/scenery/TEXTURE/HERMANNDETMOLDTEXTURE.PNG.DDS.json",
-      "size": 119,
-      "date": 132442152469686556
+      "date": 132443022632425719
     },
     {
       "path": "scenery/world/scenery/BENTELERARENASHP.BGL",
       "size": 3887,
-      "date": 132442161091556727
+      "date": 132443022765551146
     },
     {
       "path": "scenery/world/scenery/OWLLandmarks.bgl",
-      "size": 396,
-      "date": 132442161091476654
+      "size": 908,
+      "date": 132443027116141961
     }
   ]
 }
