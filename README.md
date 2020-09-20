@@ -19,4 +19,4 @@ Just put the *owllandmarks-scene folder* into your Community folder and have fun
 
 This work is non-profit, non-commercial and is not to be used in commercial way. The models are free 3D Warehouse sketchup models, thanks to all the people providing these objects.
 
-This work is powered by coffee & beer. If you like to support me creating more landmarks: https://www.buymeacoffee.com/sleepytobi or via Paypal: https://paypal.me/sleepytobi 
+This work is powered by :coffee: and :beer: . If you like to support me creating more landmarks: https://www.buymeacoffee.com/sleepytobi or via Paypal: https://paypal.me/sleepytobi 
