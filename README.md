@@ -7,9 +7,11 @@ This is my addition to the new FS 2020. I will create several VFR landmarks for 
 * Benteler Arena, Paderborn
 * Schüco Arena, Bielefeld
 * Fernmeldeturm, Bielefeld
+* Hermanns-Denkmal, Detmold (needs some texturing rework and lighting)
 
 ## Near completion
-* Hermanns-Denkmal, Detmold (needs some texturing rework and lighting)
+* Kaiser-Wilhelm Denkmal, Porta Westfalica
+* Sparrenburg, Bielefeld
 
 
 ## Installation
@@ -17,4 +19,4 @@ Just put the *owllandmarks-scene folder* into your Community folder and have fun
 
 This work is non-profit, non-commercial and is not to be used in commercial way. The models are free 3D Warehouse sketchup models, thanks to all the people providing these objects.
 
-This work is powered by coffee. If you like to support me creating more landmarks: https://www.buymeacoffee.com/sleepytobi
+This work is powered by coffee & beer. If you like to support me creating more landmarks: https://www.buymeacoffee.com/sleepytobi or via Paypal: https://www.paypal.com/paypalme/my/profile
