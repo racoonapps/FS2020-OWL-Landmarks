@@ -12,33 +12,43 @@
     },
     {
       "path": "manifest.json",
-      "size": 296,
-      "date": 132443022765721298
+      "size": 295,
+      "date": 132450858498817595
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 4649330,
-      "date": 132443022765042510
+      "size": 10219710,
+      "date": 132450858498377202
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BASETEXTURE.PNG.DDS",
-      "size": 22369776,
-      "date": 132443022750909646
+      "size": 5592560,
+      "date": 132450814667634613
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BASETEXTURE.PNG.DDS.json",
       "size": 119,
-      "date": 132443022750769523
+      "date": 132450814667574558
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/BASETEXTURENML.PNG.DDS",
+      "size": 5592560,
+      "date": 132450814695261367
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/BASETEXTURENML.PNG.DDS.json",
+      "size": 160,
+      "date": 132450814695201310
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BASETEXTUREROUGH.PNG.DDS",
-      "size": 22369796,
-      "date": 132443022735135300
+      "size": 5592580,
+      "date": 132450814693576255
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BASETEXTUREROUGH.PNG.DDS.json",
       "size": 191,
-      "date": 132443022734995172
+      "date": 132450814693516201
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BENTELERARENATEXTURE.PNG.DDS",
@@ -81,14 +91,34 @@
       "date": 132443022632425719
     },
     {
+      "path": "scenery/global/scenery/TEXTURE/PORTATEXTURE.PNG.DDS",
+      "size": 22369776,
+      "date": 132445493581592314
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/PORTATEXTURE.PNG.DDS.json",
+      "size": 119,
+      "date": 132445493581422155
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SPARRENBURGBASETEX.PNG.DDS",
+      "size": 22369776,
+      "date": 132443124579722585
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SPARRENBURGBASETEX.PNG.DDS.json",
+      "size": 119,
+      "date": 132443124579572447
+    },
+    {
       "path": "scenery/world/scenery/BENTELERARENASHP.BGL",
-      "size": 3887,
-      "date": 132443022765551146
+      "size": 4877,
+      "date": 132445505836444000
     },
     {
       "path": "scenery/world/scenery/OWLLandmarks.bgl",
-      "size": 908,
-      "date": 132443027116141961
+      "size": 1644,
+      "date": 132450862323066239
     }
   ]
 }

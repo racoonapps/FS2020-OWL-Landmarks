@@ -4,8 +4,8 @@
   "title": "OWL Landmarks",
   "manufacturer": "",
   "creator": "Tobias Reike",
-  "package_version": "0.1.3",
-  "minimum_game_version": "1.7.14",
+  "package_version": "0.1.4",
+  "minimum_game_version": "1.8.3",
   "release_notes": {
     "neutral": {
       "LastUpdate": "",
