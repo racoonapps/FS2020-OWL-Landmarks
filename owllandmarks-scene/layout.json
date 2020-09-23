@@ -13,12 +13,12 @@
     {
       "path": "manifest.json",
       "size": 295,
-      "date": 132451859792262737
+      "date": 132453149581799425
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 10423476,
-      "date": 132451859481303309
+      "size": 10560990,
+      "date": 132453155535211814
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BASETEXTURE.PNG.DDS",
@@ -71,6 +71,16 @@
       "date": 132451854450893848
     },
     {
+      "path": "scenery/global/scenery/TEXTURE/DEUTSCHE+TELEKOM,+BIELEFELD_0.PNG.DDS",
+      "size": 1398256,
+      "date": 132453149579227080
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/DEUTSCHE+TELEKOM,+BIELEFELD_0.PNG.DDS.json",
+      "size": 119,
+      "date": 132453149579177037
+    },
+    {
       "path": "scenery/global/scenery/TEXTURE/FERNSEHTURNTEX.PNG.DDS",
       "size": 22369776,
       "date": 132451854278643095
@@ -112,13 +122,13 @@
     },
     {
       "path": "scenery/world/scenery/BENTELERARENASHP.BGL",
-      "size": 5709,
-      "date": 132451854471631257
+      "size": 5853,
+      "date": 132453155535502082
     },
     {
       "path": "scenery/world/scenery/OWLLandmarks.bgl",
-      "size": 2284,
-      "date": 132451883238415167
+      "size": 2412,
+      "date": 132453155535422010
     }
   ]
 }
