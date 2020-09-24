@@ -13,6 +13,7 @@ This is my addition to the new FS 2020. I will create several VFR landmarks for 
 * Rathaus Paderborn (Sketchup Model by lobo)
 * Universität Bielefed (Sketchup Model by Chrischn F.)
 * Stadthalle Bielefeld (Sketchup Model by Stefan B.)
+* Bahnhof Bielefeld
 
 ## Near completion
 * Kaiser-Wilhelm Denkmal, Porta Westfalica
