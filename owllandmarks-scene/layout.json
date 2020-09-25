@@ -7,8 +7,8 @@
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 24863676,
-      "date": 132454966572459698
+      "size": 24863472,
+      "date": 132455218387851567
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BAHNHOFBIELEFELDBASE.PNG.DDS",
@@ -22,13 +22,13 @@
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BASETEXTURE.PNG.DDS",
-      "size": 5592560,
-      "date": 132454182240581783
+      "size": 22369776,
+      "date": 132455218384896363
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BASETEXTURE.PNG.DDS.json",
       "size": 119,
-      "date": 132454182240541744
+      "date": 132455218384746230
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BASETEXTURENML.PNG.DDS",
@@ -42,13 +42,13 @@
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BASETEXTUREROUGH.PNG.DDS",
-      "size": 5592580,
-      "date": 132454182237088617
+      "size": 22369796,
+      "date": 132455218369344234
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BASETEXTUREROUGH.PNG.DDS.json",
       "size": 191,
-      "date": 132454182237055123
+      "date": 132455218369204106
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BENTELERARENATEXTURE.PNG.DDS",
