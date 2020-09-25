@@ -14,7 +14,7 @@ This is my addition to the new FS 2020. I will create several VFR landmarks for 
 * Universität Bielefed (Sketchup Model by Chrischn F.)
 * Stadthalle Bielefeld (Sketchup Model by Stefan B.)
 * Bahnhof Bielefeld
-* Schloss Bückeburg, Bückeburg (not really OWL, but close)
+* Schloss Bückeburg, Bückeburg (Sketchup Model by Bernd G.)
 
 ## Near completion
 * Kaiser-Wilhelm Denkmal, Porta Westfalica
