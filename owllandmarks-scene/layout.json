@@ -13,12 +13,12 @@
     {
       "path": "manifest.json",
       "size": 295,
-      "date": 132454182356807371
+      "date": 132454950082150770
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 15742492,
-      "date": 132454202691793157
+      "size": 24863676,
+      "date": 132454966572459698
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BAHNHOFBIELEFELDBASE.PNG.DDS",
@@ -179,6 +179,16 @@
       "path": "scenery/global/scenery/TEXTURE/BIELEFELDSTADTHALLE_PATTERN_SAUELE_02_LOW.PNG.DDS.json",
       "size": 102,
       "date": 132454182311115858
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/BUECKEBURGSCHLOSS_0.PNG.DDS",
+      "size": 22369776,
+      "date": 132454950073871842
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/BUECKEBURGSCHLOSS_0.PNG.DDS.json",
+      "size": 119,
+      "date": 132454950073731717
     },
     {
       "path": "scenery/global/scenery/TEXTURE/DEUTSCHE+TELEKOM,+BIELEFELD_0.PNG.DDS",
@@ -442,13 +452,13 @@
     },
     {
       "path": "scenery/world/scenery/BENTELERARENASHP.BGL",
-      "size": 6452,
-      "date": 132454182356296914
+      "size": 6600,
+      "date": 132454966572880088
     },
     {
       "path": "scenery/world/scenery/OWLLandmarks.bgl",
-      "size": 3372,
-      "date": 132454202692023366
+      "size": 3436,
+      "date": 132454966572709928
     }
   ]
 }
