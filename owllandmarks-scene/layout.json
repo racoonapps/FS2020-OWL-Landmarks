@@ -1,19 +1,9 @@
 {
   "content": [
     {
-      "path": "Business.json",
-      "size": 125,
-      "date": 132431752421568596
-    },
-    {
       "path": "ContentInfo/owllandmarks-scene/Thumbnail.jpg",
       "size": 13520,
       "date": 132398945780000000
-    },
-    {
-      "path": "manifest.json",
-      "size": 295,
-      "date": 132454950082150770
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
@@ -458,7 +448,7 @@
     {
       "path": "scenery/world/scenery/OWLLandmarks.bgl",
       "size": 3436,
-      "date": 132454966572709928
+      "date": 132455198829178050
     }
   ]
 }
