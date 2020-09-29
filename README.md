@@ -9,7 +9,7 @@ This is my addition to the new FS 2020. I will create several VFR landmarks for 
 * Sparrenburg, Bielefeld
 * Fernmeldeturm, Bielefeld
 * Fernsehturm Porta Westfalica
-* Hermanns-Denkmal, Detmold (needs some texturing rework and lighting)
+* Hermanns-Denkmal, Detmold
 * Telekom Gebäude, Bielefeld (Sketchup Model by Jk)
 * Rathaus Paderborn (Sketchup Model by lobo)
 * Universität Bielefed (Sketchup Model by Chrischn F.)
@@ -18,7 +18,11 @@ This is my addition to the new FS 2020. I will create several VFR landmarks for 
 * Bielefeld Klinikum Mitte (Model provided by Peter Wegener, added some higher quality textures)
 * Bielefeld Kinderklinikum (Model provided by Peter Wegener, added some higher quality textures)
 * Bielefeld Klinikum Rosenhöhe (Model provided by Peter Wegener)
+* Bielefeld IKEA (Model provided by Peter Wegener)
 * Schloss Bückeburg, Bückeburg (Sketchup Model by Bernd G.)
+* Bismarckturm, Herford (Sketchup Model by Andreas P.)
+* Bismarckturm, Bad Salzuflen (Sketchup Model by Sebastian Sosnowski)
+* aitronic GmbH, Paderborn
 
 ## Near completion
 * Kaiser-Wilhelm Denkmal, Porta Westfalica
