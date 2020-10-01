@@ -13,12 +13,12 @@
     {
       "path": "manifest.json",
       "size": 296,
-      "date": 132458625594043276
+      "date": 132460140355030795
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 25342984,
-      "date": 132458625593518034
+      "size": 25323926,
+      "date": 132460148135221292
     },
     {
       "path": "scenery/global/scenery/TEXTURE/AITRONICBASE.PNG.DDS",
@@ -313,12 +313,12 @@
     {
       "path": "scenery/global/scenery/TEXTURE/PORTATEXTURE.PNG.DDS",
       "size": 1398256,
-      "date": 132458433450822908
+      "date": 132460140352959722
     },
     {
       "path": "scenery/global/scenery/TEXTURE/PORTATEXTURE.PNG.DDS.json",
       "size": 119,
-      "date": 132458433450772861
+      "date": 132460140352909674
     },
     {
       "path": "scenery/global/scenery/TEXTURE/PORTAWILHELMBASENML.PNG.DDS",
@@ -359,6 +359,26 @@
       "path": "scenery/global/scenery/TEXTURE/SPARRENBURGBASETEX.PNG.DDS.json",
       "size": 119,
       "date": 132458343277500908
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/TEXTURESCOM_SLATE_WALL_2X2_512_ALBEDO.PNG.DDS",
+      "size": 174904,
+      "date": 132459682772822152
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/TEXTURESCOM_SLATE_WALL_2X2_512_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132459682772782081
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/TEXTURESCOM_SLATE_WALL_2X2_512_NORMAL.PNG.DDS",
+      "size": 349680,
+      "date": 132459682772101466
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/TEXTURESCOM_SLATE_WALL_2X2_512_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132459682772051418
     },
     {
       "path": "scenery/global/scenery/TEXTURE/UNIBIELEFELD_ASPHALT_NEW.PNG.DDS",
@@ -557,8 +577,8 @@
     },
     {
       "path": "scenery/world/scenery/OWLLandmarks.bgl",
-      "size": 3964,
-      "date": 132458627285948348
+      "size": 3900,
+      "date": 132460148135446441
     }
   ]
 }
