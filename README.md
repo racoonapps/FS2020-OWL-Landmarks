@@ -19,10 +19,13 @@ This is my addition to the new FS 2020. I will create several VFR landmarks for 
 * Bielefeld Kinderklinikum (Model provided by Peter Wegener, added some higher quality textures)
 * Bielefeld Klinikum Rosenhöhe (Model provided by Peter Wegener)
 * Bielefeld IKEA (Model provided by Peter Wegener)
+* Bielefeld Landgericht (Model provided by Günther Kremp)
 * Schloss Bückeburg, Bückeburg (Sketchup Model by Bernd G.)
 * Bismarckturm, Herford (Sketchup Model by Andreas P.)
 * Bismarckturm, Bad Salzuflen (Sketchup Model by Sebastian Sosnowski)
 * aitronic GmbH, Paderborn
+* Minden Schiffmühle (X-Plane model, provided by Günther Kremp)
+* Hiddenhausener Uhrenturm (X-Plane model, provided by Günther Kremp)
 
 ## Near completion
 * Kaiser-Wilhelm Denkmal, Porta Westfalica
