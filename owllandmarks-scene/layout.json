@@ -7,8 +7,8 @@
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 26107792,
-      "date": 132463657490320789
+      "size": 26445580,
+      "date": 132463848510737267
     },
     {
       "path": "scenery/global/scenery/TEXTURE/AITRONICBASE.PNG.DDS",
@@ -22,13 +22,13 @@
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BAHNHOFBIELEFELDBASE.PNG.DDS",
-      "size": 22369776,
-      "date": 132463522421895108
+      "size": 5592560,
+      "date": 132463813990505173
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BAHNHOFBIELEFELDBASE.PNG.DDS.json",
       "size": 119,
-      "date": 132463522421744969
+      "date": 132463813990425097
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BASETEXTURE.PNG.DDS",
@@ -291,6 +291,16 @@
       "date": 132463650602932740
     },
     {
+      "path": "scenery/global/scenery/TEXTURE/HERFORD_GOPARC.PNG.DDS",
+      "size": 2796344,
+      "date": 132463841744792033
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/HERFORD_GOPARC.PNG.DDS.json",
+      "size": 102,
+      "date": 132463841744762004
+    },
+    {
       "path": "scenery/global/scenery/TEXTURE/HIDDENHAUSEN_UHRENTURM.PNG.DDS",
       "size": 699192,
       "date": 132461159695916114
@@ -339,6 +349,16 @@
       "path": "scenery/global/scenery/TEXTURE/MINDEN_SCHIFFSMUEHLE_0_LIT.PNG.DDS.json",
       "size": 102,
       "date": 132461164174038838
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MUENSTER-FERNSEHTURM_TEXTURE.PNG.DDS",
+      "size": 699216,
+      "date": 132463829382678132
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MUENSTER-FERNSEHTURM_TEXTURE.PNG.DDS.json",
+      "size": 119,
+      "date": 132463829382628084
     },
     {
       "path": "scenery/global/scenery/TEXTURE/PORTATEXTURE.PNG.DDS",
@@ -582,13 +602,13 @@
     },
     {
       "path": "scenery/world/scenery/BENTELERARENASHP.BGL",
-      "size": 10398,
-      "date": 132463657490856335
+      "size": 11229,
+      "date": 132463848511205947
     },
     {
       "path": "scenery/world/scenery/OWLLandmarks.bgl",
-      "size": 4629,
-      "date": 132463657490566067
+      "size": 4901,
+      "date": 132463852031663152
     }
   ]
 }

@@ -27,6 +27,7 @@ This is my addition to the new FS 2020. I will create several VFR landmarks for 
 * Minden Schiffmühle (X-Plane model, provided by Günther Kremp)
 * Hiddenhausener Uhrenturm (X-Plane model, provided by Günther Kremp)
 * Espelkamp Bahnhof (X-Plane model, provided by Günther Kremp)
+* Fernmeldeturm Münster (X-Plane model, provided by Günther Kremp)
 
 ## Near completion
 * Kaiser-Wilhelm Denkmal, Porta Westfalica

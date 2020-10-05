@@ -1,3 +1,6 @@
+v1.0.12
+* Removed post-apocalyptic default TV tower at Münster, added new model (Sketchup/X-Plane model, provided by Günther Kremp)
+
 v1.0.11
 * Added POI markers for Hermannsdenkmal, Kaiser-Wilhelm Denkmal and Schloss Bückeburg
 * Espelkamp Bahnhof (X-Plane model, provided by Günther Kremp)
