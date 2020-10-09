@@ -1,5 +1,8 @@
+
 v1.0.12
-* Removed post-apocalyptic default TV tower at Münster, added new model (Sketchup/X-Plane model, provided by Günther Kremp)
+* Removed post-apocalyptic default TV tower at Münster, Added new model (Sketchup/X-Plane model, provided by Günther Kremp)
+* Added Espelkamp Buildings, Rathaus, Waldfreibad, Schloss Benkhausen, LIDL, Brameyers Scheune, ALDI, Mueller, Atrium (XPlane models provided by Günther Kremp, Sketchup Models by Hans-Joachim M.)
+* Added Bismarckturm Herford (Sketchup Model by Andreas P.)
 
 v1.0.11
 * Added POI markers for Hermannsdenkmal, Kaiser-Wilhelm Denkmal and Schloss Bückeburg
