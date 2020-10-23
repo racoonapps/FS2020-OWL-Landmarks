@@ -13,12 +13,12 @@
     {
       "path": "manifest.json",
       "size": 296,
-      "date": 132467117497709697
+      "date": 132479438855254467
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 35632494,
-      "date": 132467101881665185
+      "size": 36147926,
+      "date": 132479439410884279
     },
     {
       "path": "scenery/global/scenery/TEXTURE/AITRONICBASE.PNG.DDS",
@@ -862,13 +862,13 @@
     },
     {
       "path": "scenery/global/scenery/TEXTURE/RATHOUSE_PADERBORN_0.PNG.DDS",
-      "size": 22369776,
-      "date": 132458343240436063
+      "size": 5592560,
+      "date": 132470655464110922
     },
     {
       "path": "scenery/global/scenery/TEXTURE/RATHOUSE_PADERBORN_0.PNG.DDS.json",
       "size": 119,
-      "date": 132458343240305945
+      "date": 132470655464050869
     },
     {
       "path": "scenery/global/scenery/TEXTURE/ROSENHOEHEBASE.PNG.DDS",
@@ -879,6 +879,46 @@
       "path": "scenery/global/scenery/TEXTURE/ROSENHOEHEBASE.PNG.DDS.json",
       "size": 119,
       "date": 132458343194881277
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHLOSSNEUHAUSBUILDTEX.JPG.DDS",
+      "size": 2796344,
+      "date": 132473321512809931
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHLOSSNEUHAUSBUILDTEX.JPG.DDS.json",
+      "size": 102,
+      "date": 132473321512749873
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHLOSSNEUHAUSBUILDTEXNML.JPG.DDS",
+      "size": 5592560,
+      "date": 132473321509276716
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHLOSSNEUHAUSBUILDTEXNML.JPG.DDS.json",
+      "size": 160,
+      "date": 132473321509186631
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHLOSSNEUHAUSTURM.JPG.DDS",
+      "size": 699192,
+      "date": 132473321507955519
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHLOSSNEUHAUSTURM.JPG.DDS.json",
+      "size": 102,
+      "date": 132473321507915479
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHLOSSNEUHAUSTURMBASETEXTNML.JPG.DDS",
+      "size": 1398256,
+      "date": 132473321513270349
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHLOSSNEUHAUSTURMBASETEXTNML.JPG.DDS.json",
+      "size": 160,
+      "date": 132473321513220303
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SPARRENBURGBASETEX.PNG.DDS",
@@ -1122,13 +1162,13 @@
     },
     {
       "path": "scenery/world/scenery/BENTELERARENASHP.BGL",
-      "size": 12472,
-      "date": 132467117496758833
+      "size": 12614,
+      "date": 132479439411472594
     },
     {
       "path": "scenery/world/scenery/OWLLandmarks.bgl",
-      "size": 5188,
-      "date": 132467121871252556
+      "size": 5252,
+      "date": 132479439411210366
     }
   ]
 }
