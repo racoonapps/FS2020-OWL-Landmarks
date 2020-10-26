@@ -1,3 +1,6 @@
+v1.0.13
+* Added Horn-Bad Meinberg Rathaus
+* Added Schloss Neuhaus
 
 v1.0.12
 * Removed post-apocalyptic default TV tower at Münster, Added new model (Sketchup/X-Plane model, provided by Günther Kremp)

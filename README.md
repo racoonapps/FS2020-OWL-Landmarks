@@ -31,9 +31,11 @@ This is my addition to the new FS 2020. I will create several VFR landmarks for 
 * Fernmeldeturm Münster (Sketchup/X-Plane model, provided by Günther Kremp)
 * Espelkamp Buildings: Rathaus, Waldfreibad, Schloss Benkhausen, LIDL, Brameyers Scheune, ALDI, Mueller, Atrium (XPlane models provided by Günther Kremp, Sketchup Models by Hans-Joachim M.)
 * Bismarckturm Herford (Sketchup Model by Andreas P.)
+* Rathaus Horn-Bad Meinberg (Sketchup Model by Chrischn. F)
 
 ## Near completion
 * Kaiser-Wilhelm Denkmal, Porta Westfalica
+* Schloss Neuhaus, Paderborn
 
 ## Installation
 Just put the *owllandmarks-scene folder* into your Community folder and have fun.
