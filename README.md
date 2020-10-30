@@ -32,6 +32,7 @@ This is my addition to the new FS 2020. I will create several VFR landmarks for 
 * Espelkamp Buildings: Rathaus, Waldfreibad, Schloss Benkhausen, LIDL, Brameyers Scheune, ALDI, Mueller, Atrium (XPlane models provided by Günther Kremp, Sketchup Models by Hans-Joachim M.)
 * Bismarckturm Herford (Sketchup Model by Andreas P.)
 * Rathaus Horn-Bad Meinberg (Sketchup Model by Chrischn. F)
+* Bielefeld Ravensberger Spinnerei, Oetker Halle, Stadttheather (Sketchup/X-Plane model, provided by Günther Kremp)
 
 ## Near completion
 * Kaiser-Wilhelm Denkmal, Porta Westfalica

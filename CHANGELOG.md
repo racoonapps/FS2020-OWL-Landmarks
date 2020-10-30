@@ -1,3 +1,7 @@
+v1.0.14
+* Added Bielefeld Ravensberger Spinnerei, Oetker Halle, Stadttheater
+* Fixed heights due to latest MSFS update
+
 v1.0.13
 * Added Horn-Bad Meinberg Rathaus
 * Added Schloss Neuhaus
