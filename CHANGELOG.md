@@ -1,3 +1,6 @@
+v1.0.15
+* Added Paderborn Dom
+
 v1.0.14
 * Added Bielefeld Ravensberger Spinnerei, Oetker Halle, Stadttheater
 * Fixed heights due to latest MSFS update
