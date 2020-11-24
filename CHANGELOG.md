@@ -1,3 +1,6 @@
+v1.0.16
+* Added Fernmeldeturm Köterberg, Lügde
+
 v1.0.15
 * Added Paderborn Dom
 

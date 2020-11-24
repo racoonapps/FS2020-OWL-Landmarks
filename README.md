@@ -34,6 +34,7 @@ This is my addition to the new FS 2020. I will create several VFR landmarks for 
 * Bismarckturm Herford (Sketchup Model by Andreas P.)
 * Rathaus Horn-Bad Meinberg (Sketchup Model by Chrischn. F)
 * Bielefeld Ravensberger Spinnerei, Oetker Halle, Stadttheather (Sketchup/X-Plane model, provided by Günther Kremp)
+* Fernmeldeturm Köterberg, Lügde
 
 
 ## Near completion
