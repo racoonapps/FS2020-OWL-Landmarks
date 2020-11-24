@@ -44,8 +44,12 @@ This is my addition to the new FS 2020. I will create several VFR landmarks for 
 ## Installation
 Just put the *owllandmarks-scene folder* into your Community folder and have fun.
 
+
+This work is powered by :coffee: and :beer: . If you like to support me creating more landmarks: https://www.buymeacoffee.com/sleepytobi or via Paypal: https://paypal.me/sleepytobi 
+
+
+## Disclaimer
 This work is non-profit, non-commercial and is not allowed to be used in commercial way. 
 Some models are free 3D Warehouse sketchup models, many thanks to all the people/contributors providing these objects!
 This work is distributed is based on fair use of models provided by SketchUp designers, the work is not and will not be commercially used and is for educational purposes only. If a designer wants his object removed from the work, please feel free to contact me, I will remove the mentioned model immediately.
-
-This work is powered by :coffee: and :beer: . If you like to support me creating more landmarks: https://www.buymeacoffee.com/sleepytobi or via Paypal: https://paypal.me/sleepytobi 
+Some of this models including 3D data and textures are copyrighted by « Google Map data ». Google Maps and Map data are provided by © Google, LLC, Mountain View, California, US. This free creation contains content from Google Maps or Google Earth. In accordance with Google Terms of Services and especially point 2.2 of Google Maps/Google Earth Additional Terms of Service, this creation is based on « fair use » or « fair dealing » of the data provided by google throught its services. No commercial use or any gain is or will ever be made by the author of this creation, who doesn’t own anything regarding google assets but a simple user licence. The author is freely sharing a creative application of Google Maps or Google Earth. As Google stated it cant answer to any direct demand about a particular creative use of its properties, like stated in the « written permission » paragraph of the same document, to verify if its complying with its Term of Services, and as it is economically unreasonable for the casual creator of this content to ask for a costly legal analysis of its creation like proposed in the « Fair use » paragraph of the document, the author of this creation will stop sharing it freely and destroy any trace of it at first demand from Google, in accordance with the paragraph « Taking action in case of problems » of the Google Terms of Service about « advance notice » provided « when reasonably possible ».
