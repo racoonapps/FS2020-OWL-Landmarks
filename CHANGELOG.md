@@ -1,5 +1,6 @@
 v1.0.16
 * Added Fernmeldeturm Köterberg, Lügde
+* Added Bielefeld East End Tower
 
 v1.0.15
 * Added Paderborn Dom
