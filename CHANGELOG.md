@@ -1,3 +1,6 @@
+v1.0.17
+* Fix for modelLib.CGL problems and CTDs
+
 v1.0.16
 * Added Fernmeldeturm Köterberg, Lügde
 * Added Bielefeld East End Tower
