@@ -1,3 +1,6 @@
+v1.0.18
+* Added Sender Bielstein
+
 v1.0.17
 * Fix for modelLib.CGL problems and CTDs
 
