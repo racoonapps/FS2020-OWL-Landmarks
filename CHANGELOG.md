@@ -1,3 +1,6 @@
+v1.0.19
+* Removed the tv and communication towers (now available in TV & Communication Towers on flightsim.to)
+
 v1.0.18
 * Added Sender Bielstein
 

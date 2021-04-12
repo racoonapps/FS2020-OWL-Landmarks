@@ -8,8 +8,6 @@ This is my addition to the new FS 2020. I will create several VFR landmarks for 
 * Dom, Paderborn
 * Schüco Arena, Bielefeld
 * Sparrenburg, Bielefeld
-* Fernmeldeturm, Bielefeld
-* Fernsehturm Porta Westfalica
 * Hermanns-Denkmal, Detmold
 * Telekom Gebäude, Bielefeld (Sketchup Model by Jk)
 * Rathaus Paderborn (Sketchup Model by lobo)
@@ -28,19 +26,15 @@ This is my addition to the new FS 2020. I will create several VFR landmarks for 
 * Minden Schiffmühle (X-Plane model, provided by Günther Kremp)
 * Hiddenhausener Uhrenturm (X-Plane model, provided by Günther Kremp)
 * Espelkamp Bahnhof (X-Plane model, provided by Günther Kremp)
-* Fernmeldeturm Münster (X-Plane model, provided by Günther Kremp)
-* Fernmeldeturm Münster (Sketchup/X-Plane model, provided by Günther Kremp)
 * Espelkamp Buildings: Rathaus, Waldfreibad, Schloss Benkhausen, LIDL, Brameyers Scheune, ALDI, Mueller, Atrium (XPlane models provided by Günther Kremp, Sketchup Models by Hans-Joachim M.)
 * Bismarckturm Herford (Sketchup Model by Andreas P.)
 * Rathaus Horn-Bad Meinberg (Sketchup Model by Chrischn. F)
 * Bielefeld East End Tower, Ravensberger Spinnerei, Oetker Halle, Stadttheather (Sketchup/X-Plane model, provided by Günther Kremp)
-* Fernmeldeturm Köterberg, Lügde
-
-
+* Schloss Neuhaus, Paderborn
 
 ## Near completion
 * Kaiser-Wilhelm Denkmal, Porta Westfalica
-* Schloss Neuhaus, Paderborn
+
 
 ## Installation
 Just put the *owllandmarks-scene folder* into your Community folder and have fun.
