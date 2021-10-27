@@ -8,7 +8,7 @@ This is my addition to the new FS 2020. I will create several VFR landmarks for 
 * Dom, Paderborn
 * Schüco Arena, Bielefeld
 * Sparrenburg, Bielefeld
-* Hermanns-Denkmal, Detmold
+* Hermanns-Denkmal, Detmold (removed, better model with official Simupdate)
 * Telekom Gebäude, Bielefeld (Sketchup Model by Jk)
 * Rathaus Paderborn (Sketchup Model by lobo)
 * Universität Bielefed (Sketchup Model by Chrischn F.)
